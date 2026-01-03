@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(129, 189, 212);
+    }
+    body{
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        background: linear-gradient();
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0;
+    }
+    body{
+        background-color: aquamarine;
+        backdrop-filter: blur(10px);
+        padding: 35px;
+        width: 380px;
+        border-radius: 20px;
+        box-shadow: 0 10px 205px black;
+    }
+    h1{
+        text-align: center;
+        margin-bottom: 25px;
+        color: rgb(7, 65, 7);
+    }
+.Register{
+    border: 2px solid black;
+    align-items: center;
+    padding: 0;
+    margin: 10px;
+    backgrou
+}
+/* .login{
+    
+} */
